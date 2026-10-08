@@ -1,0 +1,9 @@
+{
+  "name": "BreedingInPen",
+  "version_number": "@VERSION@",
+  "website_url": "https://github.com/Shuiei/valheim-breeding-in-pen",
+  "description": "Server-side only: newborn boars, wolves, lox and other tamed animals stay inside their pen, plus a breeding limit per creature. Players need no mod.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2351"
+  ]
+}
